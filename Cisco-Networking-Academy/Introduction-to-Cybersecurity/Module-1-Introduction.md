@@ -1,6 +1,11 @@
 # Apollo E-Commerce Security Assessment Notes
 
 ## Module 1 – Introduction to Cybersecurity
+![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity-blue)
+![Module](https://img.shields.io/badge/Module-1-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Level](https://img.shields.io/badge/Level-Beginner-yellow)
+
 
 ### Scenario
 
