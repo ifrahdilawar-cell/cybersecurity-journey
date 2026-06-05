@@ -125,6 +125,12 @@ A long-term targeted cyber attack where attackers remain hidden inside a system 
   - Cyber threats
 ---
 
+## 🚀 Key Takeaways
+- Basics of system vulnerabilities
+- Difference between hardware and software risks
+- Importance of updates
+- New threats like crypto-related attacks
+
 ## 👤 Author
 - BSCS Graduate | Cybersecurity Learner  
 - Focus: SOC Analyst / Penetration Testing Path  
