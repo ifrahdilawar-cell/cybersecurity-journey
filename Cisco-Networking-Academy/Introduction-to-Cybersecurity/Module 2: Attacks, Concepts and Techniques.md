@@ -1,4 +1,4 @@
-# 🛡️ Cisco Intro to Cybersecurity – Module 2 Notes
+# Module 2: Attacks, Concepts and techniques
 
 ![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity-blue)
 ![Module](https://img.shields.io/badge/Module-2-green)
