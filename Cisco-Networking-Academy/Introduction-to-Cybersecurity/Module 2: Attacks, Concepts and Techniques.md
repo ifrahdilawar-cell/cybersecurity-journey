@@ -131,7 +131,5 @@ A long-term targeted cyber attack where attackers remain hidden inside a system 
 - Importance of updates
 - New threats like crypto-related attacks
 
-## 👤 Author
-- BSCS Graduate | Cybersecurity Learner  
-- Focus: SOC Analyst / Penetration Testing Path  
-
+## 📊 Status
+Module 2 Completed ✅ Cisco Networking Academy – Introduction to Cybersecurity
