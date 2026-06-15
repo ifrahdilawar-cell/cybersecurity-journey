@@ -190,19 +190,6 @@ Provides:
 - Role-based access control
 - Simplified security management
 
-### Key Terminology
-
-| Term | Meaning |
-|--------|---------|
-| Firewall | Filters network traffic |
-| IDS | Detects suspicious activity |
-| IPS | Detects and blocks attacks |
-| NetFlow | Collects network traffic data |
-| Penetration Testing | Simulated attack to find vulnerabilities |
-| CSIRT | Incident response team |
-| ISE | Identity Services Engine |
-| TrustSec | Cisco network segmentation technology |
-
 ---
 
 ## Module Summary
