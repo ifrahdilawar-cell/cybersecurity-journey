@@ -6,5 +6,5 @@
 - [x] Module 2: Attacks, Concepts and Techniques
 - [x] Module 3: Protecting your Data and Privacy
 - [x] Module 4: Protecting the Organization
-- [ ] Module 5: Will Your Future Be in Cybersecurity?
-- [ ] Final Exam
+- [x] Module 5: Will Your Future Be in Cybersecurity?
+- [x] Final Exam
