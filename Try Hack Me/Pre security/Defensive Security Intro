@@ -1,0 +1,61 @@
+# Defensive Security Intro 
+
+## Status
+Completed ✅
+
+## What I Learned
+
+- Cybersecurity involves both offensive and defensive thinking.
+- Defenders are responsible for monitoring systems, detecting attacks, and stopping malicious activity.
+- In real environments, attackers generate traffic patterns that defenders must analyze and respond to.
+- Security analysis often depends on identifying unusual behavior in logs or network traffic.
+
+## Key Concepts
+
+### 1. Think Like a Defender
+A defender focuses on protecting systems by understanding how attackers might try to exploit them.
+
+Main responsibilities:
+- Monitoring systems
+- Protecting sensitive data
+- Preventing unauthorized access
+
+### 2. Detect Suspicious Activities
+Defenders monitor logs and network traffic to identify unusual behavior.
+
+Examples of suspicious activity:
+- Multiple failed login attempts
+- Unexpected login locations
+- Unusual spikes in traffic
+
+### 3. Identify the Attack
+Once suspicious activity is detected, the next step is to analyze it and understand what type of attack is happening.
+
+This may include:
+- Brute-force attacks
+- Unauthorized access attempts
+- Malicious traffic patterns
+
+### 4. Stop the Attack
+After identifying the attack, defensive actions are taken to stop it.
+
+Examples:
+- Blocking IP addresses
+- Closing vulnerable services
+- Isolating affected systems
+
+## Lab Activity
+
+### FakeBank Simulation
+- Observed a simulated banking environment under attack.
+- Detected suspicious login and transaction activities.
+- Identified abnormal traffic patterns indicating malicious behavior.
+
+### Defender Traffic Monitoring
+- Analyzed incoming network traffic in real-time.
+- Identified suspicious activity within logs and requests.
+- Practiced responding to potential security incidents by stopping malicious actions.
+
+## Takeaway
+
+Defensive security is a continuous process of monitoring, detecting, analyzing, and responding to threats. Understanding attacker behavior is essential to effectively protect systems in real-world environments.
