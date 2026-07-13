@@ -18,13 +18,25 @@
 
 ### Network Fundamentals 
 - [x] What is Networking
-- [ ] Intro to LAN
-- [ ] OSI Model
-- [ ] Packets and Frames
-- [ ] Extending your Network
+- [ ] Intro to LAN (paid)
+- [ ] OSI Model (paid)
+- [ ] Packets and Frames (paid)
+- [ ] Extending your Network (paid)
 
 ### How the Web Works
 - [x] DNS in Detail
 - [x] HTTP in Detail
 - [x] How Websites Work
-- [ ] Putting it All Together
+- [x] Putting it All Together
+
+### Computer Fundamentals
+- [X] Inside a Computer system
+- [X] Computer Types
+- [ ] Client-Server Basics (paid)
+- [X] Vitualization Basics
+- [X] Cloud Computing Fundamentals
+
+### Operating System Basics
+- [x] Operating Systems Introduction
+ 
+
